@@ -1,0 +1,9 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\bin\Debug\Klient1.exe.config
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\bin\Debug\Klient1.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\bin\Debug\Klient1.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\bin\Debug\IZadanie1.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\obj\Debug\Klient1.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\obj\Debug\Klient1.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\obj\Debug\Klient1.csproj.Up2Date
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\obj\Debug\Klient1.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Klient1\obj\Debug\Klient1.pdb
